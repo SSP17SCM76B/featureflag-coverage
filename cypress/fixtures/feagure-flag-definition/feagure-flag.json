@@ -1,0 +1,13 @@
+{
+  "id": "9de30440-2f4d-4828-9de2-c8dd128e0172",
+  "flagCode": "cypress-test-flag-2",
+  "environment": "int",
+  "appCode": "AuthService",
+  "name": "Cypress Test Flag 2",
+  "description": "This is for unit testing",
+  "pmAlias": "kagoksal@microsoft.com",
+  "message": "GME TO THE MOON",
+  "expirationDate": "2021-03-05T16:17:41.15Z",
+  "expirationValue": false,
+  "expires": false
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "applicationId": 1,
+    "code": "AuthService",
+    "name": "MCIO Authorization Service",
+    "platform": null,
+    "ownerGroupId": 0,
+    "createdOn": "2018-01-29T19:48:59.0562728",
+    "changedOn": "2020-11-24T18:56:36.1826765",
+    "roles": []
+  },
+  {
+    "applicationId": 2,
+    "code": "CTS",
+    "name": "Clear to Ship TEST",
+    "platform": null,
+    "ownerGroupId": 1,
+    "createdOn": "2017-02-23T00:18:18.383",
+    "changedOn": "2020-10-26T23:42:38.1638046",
+    "roles": []
+  }
+]

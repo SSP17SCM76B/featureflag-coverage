@@ -1,0 +1,16 @@
+[
+  {
+    "portalId": "stratus",
+    "applicationModuleName": null,
+    "settingName": "user-recent-applications",
+    "settingValue": [
+      "feature-flag-admin"
+    ]
+  },
+  {
+    "portalId": "stratus",
+    "applicationModuleName": null,
+    "settingName": "user-affinity-application",
+    "settingValue": "/feature-flag-admin/app/AuthService"
+  }
+]

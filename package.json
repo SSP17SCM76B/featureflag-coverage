@@ -1,0 +1,44 @@
+{
+  "name": "feature-flag-admin",
+  "version": "1.0.0",
+  "description": "Your application description",
+  "scripts": {
+    "lint": "tslint --project tsconfig.json",
+    "test": "cypress open",
+    "test-cypress": "concurrently \"node node_modules\\@stratus\\stratus-cli\\bin\\stratus.js serve --token none\" \"node node_modules\\cypress\\bin\\cypress run --config video=false\""
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@babel/preset-typescript": "^7.13.0",
+    "@stratus/stratus-platform": "^1.0.86",
+    "babel-plugin-istanbul": "^6.0.0",
+    "concurrently": "^5.3.0",
+    "cypress-xpath": "^1.6.1"
+  },
+  "devDependencies": {
+    "@cypress/code-coverage": "^3.9.4",
+    "@istanbuljs/nyc-config-typescript": "^1.0.1",
+    "@stratus/stratus-cli": "^1.0.82",
+    "@stratus/stratus-lint": "^1.0.0",
+    "@stratus/stratus-test": "^1.0.0",
+    "cypress": "^6.3.0",
+    "istanbul-instrumenter-loader": "^3.0.1",
+    "istanbul-lib-coverage": "^3.0.0",
+    "nyc": "^15.1.0",
+    "source-map-support": "^0.5.19",
+    "ts-node": "^9.1.1"
+  },
+  "nyc": {
+    "extends": "@istanbuljs/nyc-config-typescript",
+    "all": true,
+    "exclude": [
+      "cypress",
+      "dist",
+      "playwright",
+      "coverage",
+      "typings"
+    ],
+    "include": ["feature-flag-admin", "src"]
+  }
+}

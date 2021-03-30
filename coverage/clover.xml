@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1617101062248" clover="3.2.0">
+  <project timestamp="1617101062248" name="All files">
+    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="8" files="14" classes="14"/>
+    <package name="feature-flag-admin">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="admin-api.models.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/admin-api.models.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="admin-api.service.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/admin-api.service.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="feature-flag-admin.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/feature-flag-admin.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="feature-flag-admin.module.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/feature-flag-admin.module.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="feature-flag-admin.routing.module.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/feature-flag-admin.routing.module.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="feature-flag-admin.service.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/feature-flag-admin.service.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="models.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/models.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.apps-view">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="apps-view.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/apps-view/apps-view.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.apps-view.app-flag">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="app-flag.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/apps-view/app-flag/app-flag.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.apps-view.app-flag.add-edit-feature-flag.component">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="add-edit-feature-flag.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/apps-view/app-flag/add-edit-feature-flag.component/add-edit-feature-flag.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.apps-view.app-flag.grid-icon-cellrenderer">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="grid-icon-cellrenderer.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/apps-view/app-flag/grid-icon-cellrenderer/grid-icon-cellrenderer.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.apps-view.feature-flag-definition">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="feature-flag-definition.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/apps-view/feature-flag-definition/feature-flag-definition.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.apps-view.feature-flag-definition.add-edit-feature-flag-def">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="add-edit-feature-flag-def.component.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/apps-view/feature-flag-definition/add-edit-feature-flag-def/add-edit-feature-flag-def.component.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="feature-flag-admin.utils">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="custom-date-filter.ts" path="E:/One/MCIO-CPE-StratusApplications/src/applications/feature-flag-admin/src/feature-flag-admin/utils/custom-date-filter.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
